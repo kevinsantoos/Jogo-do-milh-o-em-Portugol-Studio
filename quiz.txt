@@ -1,0 +1,100 @@
+Quantos jogadores compõe um time de futebol? | Futebol | 1 | 10 na linha e 1 no gol | 9 na linha e 1 no gol | 11 na linha e 2 no gol | 8 na linha e 7 no gol					
+Quem é o maior ganhador da Bola de Ouro? | Futebol | 3 | Cristiano ronaldo | Ronaldinho | Messi | Kaka
+Quem é o artilheiro da Seleção Brasileira? | Futebol | 4 | Rivaldo | Ronaldinho | Neymar | Pelé
+Quem foi campeão da Champions League em 2015? | Futebol | 1 | Barcelona | Real Madrid | PSG | Juventus 
+Quem é o artilheiro da Champions League? | Futebol | 4 | Messi | Lewandowski | Neymar | Cristiano Ronaldo
+Em que ano foi realizada a primeira Copa do Mundo? | Futebol | 3 | 1940 | 1965 | 1930 | 1915
+Quem ganhou a Copa do Mundo de 2010? | Futebol | 1 | Espanha | Italia | Alemanha | França
+Qual time ganhou mais Champions League na historia? | Futebol | 3 | Barcelona | Liverpool | Real Madrid | Bayern de Munique
+Em que País pertence a Liga Calcio? | Futebol | 1 | Italia | Espanha | Alemanha | Holanda
+Quem é o artilheiro da Copa do Mundo? | Futebol | 3 | Pelé | Messi | Klose | Cristiano Ronaldo
+Qual a raiz quadrada de 64 | Matemática | 3 | 24| 54 | 8 | 12
+Quanto é 5x5 ? | Matemática | 2 | 44 | 25 | 10+5 | 15
+Quanto é 7x7 ? | Matemática | 1 | 49 | 48 | 51 | 62
+Quanto é 8x8/40 ? | Matemática | 1 | 1,6 | 1,3 | 1,7 | 2
+Quanto é 10% de 525 ? | Matemática | 1 | 52,5 | 50,5 | 75 | 45
+Quantos é 30% de 1024 ? | Matemática | 3 | 250 | 345 | 307,2 | 310
+Qual o resultado da divisão 725 / 25 ? | Matemática | 4 | 25 | 31 | 28 | 29
+Qual o resultado da divisão 50/2,5 ? | Matemática | 2 | 25 | 20 | 19 | 23
+Quanto é 8x8+24 ? | Matemática | 2 | 264 | 88 | 40+41 | 263
+Quanto é 6x2+4 ? | Matemática | 3 | 15 | 12 | 16 | 14
+Que personagem dos desenhos animados sempre diz: "Eu acho que vi um gatinho." ? | Desenho  | 2 | Jerry | Piu-Piu | Pluto | Mickey 
+Qual o nome do vilão de Digimon 4? | Desenho  | 4 | Agumon  | Meruquimon  | Luceramon  | Lucemon  
+Quais os nomes dos amigos de Ashe em Pokémon? | Desenho  | 3 | Jessie e James | Carla e Brock | Brock e Misty | Lucy e Loren
+Qual desenho está em primeiro lugar como programa de maior sucesso da Nickelodeon? | Desenho  | 2 | Os Padrinhos Mágicos | Bob Esponja | Ei! Arnold | I-Carly
+Qual o nome da irmã de Phineas e Ferb? | Desenho  | 4 | Morgana | Luciana | Kandace | Candace
+Qual o nome da namorada de Jake em Jake Long - O Dragão Ocidental? | Desenho  | 3 | Margarida| Violeta| Rosa| Orquídia
+Qual o nome da evolução do Pikachu? | Desenho  | 2 | Kaichu | Raichu | Haichu | Maichu
+Qual o nome criador de Bob Esponja? | Desenho  | 4 | João Azevedo | Edward Hillenburg | Carlos Vieira | Stephen Hillenburg
+Qual o nome do coelho mais rapido dos desenhos animados? | Desenho  | 1 | Pernalonga | Raichu | Pica-Pau| Bob Esponja
+Quem é o diabinho da tasmania? | Desenho  | 2 | Kaichu | Taz| Pernalonga| bob Esponja
+Qual o nome do martelo do thor? | Filmes Marvel | 2 | Martelo do Trovão | Mjolnir | Stormbreaker | Mionir
+Qual joia o Doutor Estranho tinha? | Filmes Marvel | 4 | Joia da Realidade | Joia da Alma | Joia do Poder | Joia do Tempo
+Em que ano se passa Capitã Marvel? | Filmes Marvel | 3 | 2008 | 2017 | 1995 | 1993
+Quem é a Vilão de Thor Ragnarok? | Filmes Marvel | 1 | Hela | Mandarim | Killmonger | Loki
+Porque o Nick Fury perdeu o olho? | Filmes Marvel | 4 | Levou um tiro no olho | Arrancou seu proprio olho | Arrancaram seu olho em uma batalha | Um gato alienígena arranhou seu olho 
+Em que ano foi lançado o primeiro filme do MCU? | Filmes Marvel | 1 | 2008 | 2007 | 2010 | 2011 
+Thor Ragnarok foi lançado em: | Filmes Marvel | 3 | 2018 | 2010 | 2017 | 2016
+Em que ano foi criado o filme Vingadores: A era de Ultron? | Filmes Marvel | 3 | 2016 | 2014 | 2015 | 2017
+Qual a data de nascimento do Tom Holland (Homem-Aranha)? | Filmes Marvel | 2 | 1 de Setembro de 1996 | 1 de Junho de 1996 | 10 de Novembro de 1980 | 25 de Janeiro 1998
+Qual é o medo de Tom Holland (Homem-Aranha) ? | Filmes Marvel | 2 | Rato | Aranha | Cobra | Cachorro  
+Marque a alternativa incorreta. | Portugûes | 2 | Falamos cerca de dez minutos | Fiquei cerca de 15 metros da porta | Há cerca de cem pessoas no estádio | Falamos acerca do filme
+Marque a alternativa incorreta. | Portugûes | 1 | De dezoito anos a cima | Muito acima do general | Buscamos, acima de tudo, a paz | Costurou a saia de baixo a cima
+Entre mim e você ou entre eu e você? Marque apenas as afirmativas com a forma correta.| Portugûes | 2 | Entre mim e você | Entre mim e ti. | Entre eu e a senhora | Entre eu e elas.
+Qual destes são textos instrucionais? | Portugûes | 2 | Piadas | Receitas | Poemas | Contos  
+Qual a finalidade do texto instrucional?  | Portugûes | 4 | Provocar risos ou gargalhadas | Anunciar uma notícia | Contar uma história | Instruir o Leitor
+Onde podemos encontrar notícias? | Portugûes | 1 | Jornais Virtuais | Receitas | lendas | Bula de remédio
+Como se chama o primeiro parágrafo de uma notícia? | Portugûes | 1 | Lide | Corpo Da notícia  | Título | Manchete 
+Como é abreviada a classe gramatical "Advérbio"? | Portugûes | 2 | verb. | adv. | adj. | s.
+Na frase "Nós se encontraremos novamente amanhã."onde está o erro? | Portugûes | 3 | Nós | Novamente | Se | Encontraremos 
+Todas as alternativas estão corretas, exceto | Portugûes | 3 | deslize - deslizar | enraizado - raiz | paralização - paralizar | realização - realizar
+Kakashi treinou que time? | Naruto | 3 | Time 10 | Time 15 | Time 7 | Time 8
+Obito também pode ser chamado de: | Naruto | 1 | Tobi | Itachi | Furia da Nevoa | Gai
+Naruto era também um : | Naruto | 1 | Jinchuriki | Hatake | Membro da akatsuki | Uchiha
+Quem fundou Konoha ? | Naruto | 4 | Naruto e Sasuke | Hashimara e Tobirama | Naruto e Tobirama | Hashimara e Madara 
+Quem criou o Rasegan ? | Naruto | 3 | Kakashi | Tobirama | Minato | Hashimara
+Qual clã é o do Tobirama ? | Naruto | 4 | Uchiha | Uzumaki | Uchimaki | Senju 
+A Bola de Fogo é um jutsu tradicional do clã ? | Naruto | 3 | Hokages | Akatsuki | Uchiha | Senju
+Konoha foi destruida por quem ? | Naruto | 1 | Pain | Zetsu | Madara | Sasuke 
+Zetsu tem duas variantes, quais são ? | Naruto | 1 | Preto e Branco | Azul e Verde | Marrom e Amarelo | Vermelho e Preto 
+Qual o Clã do Sasuke ? | Naruto | 3 | Hyuga | Uzumaki | Uchiha | Senju
+Em que ano o Minecraft Java foi lançado? | Minecraft | 3 | 2008 | 2011 | 2009 | 2010
+Em que ano o Minecraft Bedrock foi lançado? | Minecraft | 1 | 2011 | 2010 | 2009 | 2008
+Quem é o criador do Minecraft ? | Minecraft | 1 | Notch | Herobrine | Kishimoto | Scott Cawtom
+Qual a empresa criadora do Minecraft ? | Minecraft | 3 | Microsoft | Eletronic Arts | Mojang | Ubisoft
+Qual versão surgiu o Wither Boss ? | Minecraft | 4 | 1.9 | 1.0 | 1.7 | 1.8
+Qual a versão em que a Elytra foi lançada ? | Minecraft | 4 | 1.12 | 1.8 | 1.10 | 1.9
+Qual o mob do Minecraft que dá mais dano ? | Minecraft | 1 | Ravager | Vindicator | Wither Skeleton | WIther Boss
+Qual é o Boss mais forte e mais dificil de se derrotar ? | Minecraft | 2 | Elder Guardian | Wither Boss | Ender Dragon | Elder Boss
+Qual arma que dá mais dano nas duas edições do Minecraft ? | Minecraft | 1 | Espada | Arco e Flecha | Tridente | Machado
+Qual o mob com menos vida no Minecraft ? | Minecraft | 3 | Galinha | Vaca | Peixes | Jaguatirica  
+Quantas pálpebras as corujas tem em cada olho? | Animais | 1 | 3 | 1 | 2 | 0 
+Até quanto tempo andorinhões podem passar voando sem parar? | Animais | 4 | 24 horas | 1 Semana | 1 Mês | 10 Mesês
+Os Bichos-Preguiça descem das arvores somente uma vez por semana, para fazer o quê? | Animais | 4 | Caçar | Acalasar |Esticar as pernar | Defecar
+Uma espécie de qual destes bichos pode ser considerada imortal? | Animais | 1 | Àgua-viva | Pepino-do-mar | Ouriço-do-mar | Gavião 
+Quantas vezes por segundo os beija-flores batem suas asas? | Animais | 3 | 50 | 100 | 200 | 300 
+Em época de acasalamento, qual truque flamingos utilizam para ficarem mais atraentes? | Animais | 1 | Se pintam | Fazem uma dança | Recolhem uma das pernas | Abrem as asas 
+Qual o comprimento das presas de uma Víbora-do-Gabão? | Animais | 2 | 2cm | 5cm | 3cm | 6cm
+Qual a família de serpentes considerada a mais evoluída de todas? | Animais | 1 | Viperídeos | Elapídeos | Pitonídeos | Boídeos
+A qual gênero pertence a Surucucu Pico de Jaca? | Animais | 2 | Bothrops | Lachesis | Crotalus | Micrurus
+Qual o peso da Sucuri? | Animais | 4 | Cerca de 130kg| Cerca de 320kg | Cerca de 295kg | Cerca de 450kg
+Qual é a espécie mais perigosa de tubarão? | Tubarões | 2 | Tubarão Mako | Tbarão Mangona | Tubarão Branco | Tubarão Cabeça de martelo
+Quantos ataques de tubarão ocorrem em média por ano? | Tubarões | 3 | Cerca de 90 a 150 ataques | Cerca de 50 a 150 atques | Cerca de 70 a 100 ataques | Cerca de 0 a 100 ataques 
+Cerca de quantas espécies de tubarão existem? | Tubarões | 4 | 700 | 150 | 300 | 450
+Os tubarões também podem ser chamados de... | Tubarões | 3 | Caçador  | Cachorro-do-Mar | Cação | Urso-do-Mar
+Há quantos anos viveram os primeiros tubarões | Tubarões | 3 | 200 Anos  | 100 Bilhões de Anos | 400 Milhões de anos | 10 Trilhoões de Anos 
+Qual o menor tubarão já descoberto? | Tubarões | 2 | Tubarão Anão | Tubarão-Lanterna-Anão | Tubarão Pequeno | Tubarão Baleia
+Qual o tubarão mais rápido do mundo? | Tubarões | 2 | Tubarão-Sol | Tubarão-Mako | Tubarão Branco | Tubarão Duende
+Quantos dentes os tubarões perdem em toda sua vida? | Tubarões | 4 | 30 | 300 | 3000 | 30000
+A pele do tubarão é normalmente usada para cobrir o punho de uma certa espada. Em qual país isso acontece? | Tubarões | 2 | China | Japão | Coreia do Sul | Tailândia
+O fígado do tubarão ocupa quanto por cento de sua massa corporal? | Tubarões | 2 | 70% | 30% | 50% | 10%
+Qual é o outro nome do norte ? | Geografia | 1 | Setentrional | Meridional | Ocidental | Oriental
+Qual é o nome dos movimentos que a terra faz ? | Geografia | 2 | Rodação e Transação | Rotação e Translação | Rodação e Translação | Rotação e Transação
+Considerando que o norte está para cima, aonde está o o leste ? | Geografia | 1 | Direita | Esquerda | Para Baixo | Para cima 
+Qual é o continente que está quase todo dentro do círculo polar antártico ? | Geografia | 2 | Europa | Antártica | Ásia | África
+Em qual direção o Sol nasce ? | Geografia | 4 | Oeste | Sul | Norte | Leste
+Onde está localizado o Monte Everest? | Geografia | 4 | E.U.A | México | Noruega | Himalaia
+Qual canal mais famoso da América Central ? | Geografia | 2 | Canal do Rio Amazonas | Canal do Panamá | Canal do Amapá | Canal Amazonas 
+Qual a capital dos Emirados Árabes Unidos ? | Geografia | 4 | Dubai | Doha | Istambul | Abu Dhabi
+Qual è a capital do Haiti ? | Geografia | 3 | Porto Alegre | Porto Rico | Porto Pricipe | Porto Feliz
+A capital da Angola é : | Geografia | 3 | Luara | Lucinda | Luanda | Luana 
