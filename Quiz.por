@@ -1,9 +1,6 @@
 programa
 {	
 		
-	// Kevin Sousa dos Santos RA: 1680482122002
-	// Guilherme Vieira Pena RA: 1680482122037
-	
 	inclua biblioteca Sons --> s
 	inclua biblioteca Tipos -->t
 	inclua biblioteca Util --> ut
